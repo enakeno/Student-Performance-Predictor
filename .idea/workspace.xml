@@ -6,12 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="786f98c6-2770-4d4c-8462-829177a906e8" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../mlproject/.idea/mlproject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/f2py.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/f2py.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/numpy-config.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/numpy-config.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/data_ingestion.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/data_ingestion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/data_transformation.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/data_transformation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/model_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/model_trainer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,7 @@
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.data_transformation">
+  <component name="RunManager" selected="Python.data_ingestion">
     <configuration name="data_ingestion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mlproject" />
       <option name="ENV_FILES" value="" />
@@ -153,8 +152,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.data_transformation" />
         <item itemvalue="Python.data_ingestion" />
+        <item itemvalue="Python.data_transformation" />
         <item itemvalue="Python.logger" />
         <item itemvalue="Python.exception" />
       </list>
